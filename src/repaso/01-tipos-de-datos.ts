@@ -1,4 +1,4 @@
-let nombre:string ="Giselle"; 
+let nombre1:string ="Giselle"; 
 let cont:number=111;
 let acredits:boolean=false;
 let paterno: number|string ="Juan";
